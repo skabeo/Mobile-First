@@ -1,0 +1,9 @@
+.menu {
+  height: 20.83px;
+  width: 33.33px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between; 
+}
