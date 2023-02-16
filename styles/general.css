@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color:  #00040F;
+  background-color:  #191765;
   font-family: 'Poppins', sans-serif;
   color: white;
   margin: 0;
@@ -50,7 +50,7 @@ p {
 
   main {
     max-width: 600px;
-    background-color: #00040F;
+    background-color: #191765;
     padding: 30px 24px;
   }
 
@@ -67,21 +67,9 @@ p {
     height: 160px;
     left: -200px;
     top: 0;
-    background: #525161;
+    background: #EDECFF;
     filter: blur(25px);
     border-radius: 100%;
 
   }
-
-  .footer
-  .gradient2 {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    right: -140px;
-    top: 0px;
-    background: #525161;
-
-    filter: blur(25px);
-  } 
 }
