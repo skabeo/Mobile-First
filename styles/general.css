@@ -14,6 +14,10 @@ body {
   padding: 32px 24px;
 }
 
+main {
+  width: 100%
+}
+
 p {
   margin: 0;
 }
@@ -71,5 +75,17 @@ p {
     filter: blur(25px);
     border-radius: 100%;
 
+  }
+
+  .footer
+  .gradient2 {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    right: -206px;
+    bottom: 230px;
+    background: #EDECFF;
+    filter: blur(25px);
+    border-radius: 50%;
   }
 }

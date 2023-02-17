@@ -43,3 +43,14 @@ li {
 
 }
 
+.gradient2 {
+  position: absolute;
+  width: 68px;
+  height: 68px;
+  right: -60px;
+  top: 70px;
+
+  background: #EDECFF;
+  filter: blur(25px);
+}
+
