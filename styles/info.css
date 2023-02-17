@@ -1,0 +1,25 @@
+.bio-container {
+  position: relative;
+  margin-top: 60px;
+}
+
+.gradient {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  left: -106px;
+  top: 0;
+  background: #EDECFF;
+  filter: blur(25px);
+  border-radius: 50%;
+}
+
+.description-container {
+  margin-top: 60px;
+  position: relative
+}
+
+.line {
+  border: 1px solid #646369;
+  margin-top: 33px;
+}
